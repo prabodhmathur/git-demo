@@ -11,5 +11,7 @@ Next level of modification in the text file to test the commit at github via com
 
 3rd level of update in the file
 
+Created the Index.html pade
 
-Update the HTML page as well.
+Updated the HTML page.
+
